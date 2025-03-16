@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/certificados/static/css/main.9eb948ce.css",
+    "main.js": "/certificados/static/js/main.247dac8b.js",
+    "index.html": "/certificados/index.html",
+    "main.9eb948ce.css.map": "/certificados/static/css/main.9eb948ce.css.map",
+    "main.247dac8b.js.map": "/certificados/static/js/main.247dac8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb948ce.css",
+    "static/js/main.247dac8b.js"
+  ]
+}
